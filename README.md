@@ -13,9 +13,12 @@
 <img  src="https://komarev.com/ghpvc/?username=yokozuna753&style=flat-square&color=blue" alt=""/>
 </div>
 
-
-
-### Hi there 👋
+<div align="center">
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
 
 POV: The year is 2021 and crypto prices/mining are off the charts. You suddenly hear about mining crypto to make $$ with only a GPU... Crazy right?! Well, that's exactly how I ended up learning to build a mining rig, let alone a PC, in a few weeks. After trying out some courses in FreeCodeCamp, I came across Full Stack Development and it was love at first (or maybe second) sight. I now spend my days building web applications, rock climbing, watching Anime, Gaming, and much more!	
 	
