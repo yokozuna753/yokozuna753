@@ -1,15 +1,15 @@
 
-<div>
+
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRyem1kdTk5NDhrYzczd3Brb2FiOHU0MTR6OG93Z2xvcHVtanJoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
  <a target="_blank" href="https://www.linkedin.com/in/brian-rodriguez-martinez-ba1683190/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
  <a target="_blank" href="https://www.instagram.com/brianxbreezy/">  <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
 <!--   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> -->
 </div>
-</div>
+
 
 
 ### Hi there 👋
