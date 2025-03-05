@@ -73,3 +73,6 @@ POV: The year is 2021 and crypto prices/mining are off the charts. You suddenly 
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yokozuna753&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yokozuna753&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
