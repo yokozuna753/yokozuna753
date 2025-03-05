@@ -68,3 +68,8 @@ POV: The year is 2021 and crypto prices/mining are off the charts. You suddenly 
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" **alt="Docker" width="40" height="40"/>
 </div>
 
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yokozuna753&theme=dark)](https://git.io/streak-stats)
