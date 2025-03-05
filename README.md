@@ -4,7 +4,9 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRyem1kdTk5NDhrYzczd3Brb2FiOHU0MTR6OG93Z2xvcHVtanJoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="100"/>
 </div>
 <div>
-	
+	<h1>|</h1>
+	<h1>|</h1>
+	<h1>|</h1>
 </div>
 
 <div id="badges" align="center">
