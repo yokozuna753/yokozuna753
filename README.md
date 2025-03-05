@@ -48,7 +48,6 @@ POV: The year is 2021 and crypto prices/mining are off the charts. You suddenly 
 - 👯 I’m looking to collaborate on friends' projects
 - 🤔 I’m looking for help with Docker
 - 💬 Ask me about Soft Skills
-- 📫 How to reach me: [Instagram](https://www.instagram.com/brianxbreezy/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love rock climbing!
 
