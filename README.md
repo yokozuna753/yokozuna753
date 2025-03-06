@@ -49,7 +49,7 @@ POV: The year is 2021 and crypto prices/mining are off the charts. You suddenly 
 
 ### 💻: Featured Projects :
 
-[Anigram](https://github.com/yokozuna753/Anigram) | [Live Site](https://anigram-171y.onrender.com)
+### [Anigram](https://github.com/yokozuna753/Anigram) | [Live Site](https://anigram-171y.onrender.com)
 
 ---
 
