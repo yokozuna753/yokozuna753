@@ -47,6 +47,10 @@ POV: The year is 2021 and crypto prices/mining are off the charts. You suddenly 
 
 ---
 
+### 💻: Featured Projects :
+
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
