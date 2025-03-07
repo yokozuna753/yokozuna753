@@ -50,6 +50,20 @@ POV: The year is 2021 and crypto prices/mining are off the charts. You suddenly 
 ### 💻: Featured Projects :
 
 ### [Anigram](https://github.com/yokozuna753/Anigram) | [Live Site](https://anigram-171y.onrender.com)
+* Architected a full-stack anime tracking application with a dynamic data retrieval system using Flask and SQLAlchemy, implementing secure RESTful APIs that leverage Jikan API integration,
+  atomic database operations, and comprehensive caching mechanisms to prevent redundant API calls while ensuring data integrity through advanced error handling and conditional database 
+  insertions.
+  
+* Designed a multi-layered authentication and authorization ecosystem utilizing Flask-Login and Werkzeug security utilities, creating a robust user management system with secure password       
+  hashing, complex relationship mappings, and granular access control through custom decorators and SQLAlchemy relationship models that support sophisticated user interactions and data isolation.
+  
+* Engineered a complex watchlist management infrastructure with advanced data manipulation capabilities, developing RESTful endpoints that enable dynamic anime tracking across multiple user- 
+  defined collections, implementing transactional database operations with sophisticated filtering, serialization methods, and referential integrity maintenance to support intricate front-end 
+  state management and user experience.
+  
+* Constructed a scalable social interaction system with advanced relationship tracking, implementing bidirectional follow/unfollow functionality through atomic database operations, creating 
+  flexible relationship models that efficiently aggregate and serialize user interactions, and developing comprehensive query methods that transform complex database relationships into 
+  structured, performant API responses.
 
 ---
 
