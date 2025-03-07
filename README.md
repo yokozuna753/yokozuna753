@@ -50,16 +50,34 @@ POV: The year is 2021 and crypto prices/mining are off the charts. You suddenly 
 ### 💻: Featured Projects :
 
 ### [Anigram](https://github.com/yokozuna753/Anigram) | [Live Site](https://anigram-171y.onrender.com)
-* Developed a full-stack anime tracking application using Flask and SQLAlchemy, integrating Jikan API with caching mechanisms to optimize data retrieval and ensure integrity through error 
+* Developed a full-stack anime tracking application using Flask and SQLAlchemy, integrating Jikan API with caching mechanisms to optimize data 
+  retrieval and ensure integrity through error 
   handling and conditional database operations.
   
-* Implemented secure authentication using Flask-Login and Werkzeug, featuring password hashing, relationship mapping, and custom decorators for granular access control across user interactions.
+* Implemented secure authentication using Flask-Login and Werkzeug, featuring password hashing, relationship mapping, and custom decorators for 
+  granular access control across user interactions.
   
-* Built RESTful endpoints for watchlist management enabling dynamic tracking across multiple collections, with transactional database operations supporting complex filtering and serialization 
+* Built RESTful endpoints for watchlist management enabling dynamic tracking across multiple collections, with transactional database operations 
+  supporting complex filtering and serialization 
   for front-end state management.
   
-* Created a scalable social system with bidirectional follow/unfollow functionality, utilizing efficient relationship models and optimized query methods to transform complex database 
+* Created a scalable social system with bidirectional follow/unfollow functionality, utilizing efficient relationship models and optimized query 
+  methods to transform complex database 
   relationships into structured API responses.
+
+### [Brodbnb](https://github.com/yokozuna753/Brodbnb) | [Live Site](https://first-project-deployed.onrender.com)
+* Implemented secure user authentication using BCrypt for password hashing on the backend and React Auth Routes on the frontend to protect user data 
+  and restrict access to features.
+  
+* Built a comprehensive RESTful API for spot rentals with Express.js and Sequelize, incorporating express-validator middleware for data integrity and 
+  complex query parameter handling.
+  
+* Created dynamic React components with Redux state management, developing reusable UI elements that efficiently handle user interactions and 
+  conditional rendering based on authentication state.
+  
+* Designed a secure review and spot management system with role-based access control, using custom middleware to protect routes and validate user 
+  permissions for resource operations.
+
 
 ---
 
