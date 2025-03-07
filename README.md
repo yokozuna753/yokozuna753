@@ -50,20 +50,16 @@ POV: The year is 2021 and crypto prices/mining are off the charts. You suddenly 
 ### 💻: Featured Projects :
 
 ### [Anigram](https://github.com/yokozuna753/Anigram) | [Live Site](https://anigram-171y.onrender.com)
-* Architected a full-stack anime tracking application with a dynamic data retrieval system using Flask and SQLAlchemy, implementing secure RESTful APIs that leverage Jikan API integration,
-  atomic database operations, and comprehensive caching mechanisms to prevent redundant API calls while ensuring data integrity through advanced error handling and conditional database 
-  insertions.
+* Developed a full-stack anime tracking application using Flask and SQLAlchemy, integrating Jikan API with caching mechanisms to optimize data retrieval and ensure integrity through error 
+  handling and conditional database operations.
   
-* Designed a multi-layered authentication and authorization ecosystem utilizing Flask-Login and Werkzeug security utilities, creating a robust user management system with secure password       
-  hashing, complex relationship mappings, and granular access control through custom decorators and SQLAlchemy relationship models that support sophisticated user interactions and data isolation.
+* Implemented secure authentication using Flask-Login and Werkzeug, featuring password hashing, relationship mapping, and custom decorators for granular access control across user interactions.
   
-* Engineered a complex watchlist management infrastructure with advanced data manipulation capabilities, developing RESTful endpoints that enable dynamic anime tracking across multiple user- 
-  defined collections, implementing transactional database operations with sophisticated filtering, serialization methods, and referential integrity maintenance to support intricate front-end 
-  state management and user experience.
+* Built RESTful endpoints for watchlist management enabling dynamic tracking across multiple collections, with transactional database operations supporting complex filtering and serialization 
+  for front-end state management.
   
-* Constructed a scalable social interaction system with advanced relationship tracking, implementing bidirectional follow/unfollow functionality through atomic database operations, creating 
-  flexible relationship models that efficiently aggregate and serialize user interactions, and developing comprehensive query methods that transform complex database relationships into 
-  structured, performant API responses.
+* Created a scalable social system with bidirectional follow/unfollow functionality, utilizing efficient relationship models and optimized query methods to transform complex database 
+  relationships into structured API responses.
 
 ---
 
