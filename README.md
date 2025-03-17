@@ -54,8 +54,7 @@ POV: The year is 2021 and crypto prices/mining are off the charts. You suddenly 
   retrieval and ensure integrity through error 
   handling and conditional database operations.
   
-* Implemented secure authentication using Flask-Login and Werkzeug, featuring password hashing, relationship mapping, and custom decorators for 
-  granular access control across user interactions.
+* Engineered a dual-function searchbar with React and Redux that dynamically switches between anime and user search modes, implementing debounced API calls to Jikan API for anime results and efficient frontend filtering for user queries with typeahead functionality.
   
 * Built RESTful endpoints for watchlist management enabling dynamic tracking across multiple collections, with transactional database operations 
   supporting complex filtering and serialization 
