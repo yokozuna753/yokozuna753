@@ -37,11 +37,11 @@ POV: The year is 2021 and crypto prices/mining are off the charts. You suddenly 
 
 
 
-- 🔭 I’m currently working on my anime website
-- 🌱 I’m currently learning Leetcode
-- 👯 I’m looking to collaborate on friends' projects
-- 🤔 I’m looking for help with Docker
-- 💬 Ask me about Soft Skills
+- 🔭 I’m currently working on building a CRM
+- 🌱 I’m currently learning C#
+- 👯 I’m looking to collaborate on open source projects
+- 🤔 I’m looking for help with landing my next position!
+- 💬 Ask me about anime
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love rock climbing!
 
