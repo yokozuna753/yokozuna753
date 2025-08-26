@@ -37,7 +37,7 @@ POV: The year is 2021 and crypto prices/mining are off the charts. You suddenly 
 
 
 
-- 🔭 I’m currently working on building a CRM
+- 🔭 I’m currently working on building a self hosted CRM
 - 🌱 I’m currently learning C#
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with landing my next position!
