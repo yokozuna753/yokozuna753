@@ -60,9 +60,7 @@ POV: The year is 2021 and crypto prices/mining are off the charts. You suddenly 
   supporting complex filtering and serialization 
   for front-end state management.
   
-* Created a scalable social system with bidirectional follow/unfollow functionality, utilizing efficient relationship models and optimized query 
-  methods to transform complex database 
-  relationships into structured API responses.
+* Implemented a decoupled notes service with AWS Lambda and DynamoDB, enabling users to annotate anime entries with personal notes while improving application modularity and scalability.
 
 ### [CozyVibe](https://github.com/yokozuna753/CozyVibe) | [Live Site](https://first-project-deployed.onrender.com)
 * Implemented secure user authentication using BCrypt for password hashing on the backend and React Auth Routes on the frontend to protect user data 
